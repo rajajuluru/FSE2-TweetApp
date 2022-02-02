@@ -1,0 +1,34 @@
+package com.tweet.model.service;
+
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+
+import com.tweet.helperClass.ResponseHelper;
+import com.tweet.model.TweetsDetails;
+
+public class TweeterImplements implements TweeterService{
+
+	@Autowired
+	private MongoTemplate template;
+	@Override
+	public ResponseHelper likeTweet(String tweetid, String userEmail) {
+		// TODO Auto-generated method stub
+		ResponseHelper res=new ResponseHelper(false,null);
+		System.out.println(tweetid+"     tweetid"+"                  userEmail      "+userEmail);
+		TweetsDetails tweetdetails = template.findById(tweetid, TweetsDetails.class);
+		Optional<TweetsDetails> optionalTweetDetails = Optional.ofNullable(tweetdetails);
+		if(optionalTweetDetails.isPresent())
+		{
+			
+			
+		}else
+		{
+			
+		}
+		
+		return null;
+	}
+
+}

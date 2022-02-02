@@ -1,0 +1,6 @@
+spring.application.name=apigateway
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
+eureka.client.register-with-eureka=true
+server.port=8888
+zuul.routes.booking.path=/FlightBookingServices/**
+zuul.routes.booking.url=FlightBookingServices

@@ -1,0 +1,12 @@
+package com.juluru.JWT;
+
+public class UserNameAndPasswordAuthenticationRequest {
+	
+	public UserNameAndPasswordAuthenticationRequest() {
+		super();
+	}
+	private String userName;
+	private String password;
+	
+
+}

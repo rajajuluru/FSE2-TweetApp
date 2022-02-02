@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 packages to &apos;Spring-boot-Security-FormBasedAuth/src/main/java&apos;&#x0D;&#x0A;- Original project: &apos;Spring-boot-Security-BasicAuth&apos;&#x0D;&#x0A;- Destination element: &apos;Spring-boot-Security-FormBasedAuth/src/main/java&apos;&#x0D;&#x0A;- Original elements:&#x0D;&#x0A;     Spring-boot-Security-BasicAuth/src/main/java/com.juluru.security&#x0D;&#x0A;     Spring-boot-Security-BasicAuth/src/main/java/com.juluru.controller" description="Copy packages" destination="=Spring-boot-Security-FormBasedAuth/src\/main\/java" element1="/src\/main\/java&lt;com.juluru.security" element2="/src\/main\/java&lt;com.juluru.controller" flags="589830" fragments="2" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyPackages" stamp="1639550944767" version="1.0"/>
+</session>

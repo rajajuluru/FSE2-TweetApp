@@ -1,0 +1,3 @@
+server.port=9999
+spring.data.mongodb.uri=mongodb+srv://raja:raja@<cluster>.mongodb.net/mygrocerylist
+spring.data.mongodb.database=mygrocerylist

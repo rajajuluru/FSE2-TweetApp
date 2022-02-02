@@ -1,0 +1,20 @@
+package com.rest.controller.service;
+
+import java.util.List;
+
+import org.springframework.cloud.netflix.feign.FeignClient;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.RequestHeader;
+
+import com.rest.helperclass.Employee;
+
+@FeignClient
+public interface FiegnClient {
+	 static final String BaseUrl = "http://localhost:3333";
+	
+	  @GetMapping(BaseUrl+"/findAllEmployee")
+	   public List<Employee> findById(@RequestHeader("name") String name);
+	
+
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename local variable &apos;deleteTweet&apos; in &apos;com.tweet.controller.HomeController.disliketweet(...)&apos; to &apos;dislikeTweet&apos;&#x0D;&#x0A;- Original project: &apos;TweetApplication&apos;&#x0D;&#x0A;- Original element: &apos;com.tweet.controller.HomeController.disliketweet(String, String).deleteTweet&apos;&#x0D;&#x0A;- Renamed element: &apos;deleteTweet&apos;&#x0D;&#x0A;- Update references to refactored element" description="Rename local variable &apos;deleteTweet&apos;" id="org.eclipse.jdt.ui.rename.local.variable" input="/src\/main\/java&lt;com.tweet.controller{HomeController.java[HomeController~disliketweet~QString;~QString;@deleteTweet!7040!7114!7055!7065!QResponseHelper;!0!false" name="dislikeTweet" references="true" stamp="1643353852510" version="1.0"/>
+</session>

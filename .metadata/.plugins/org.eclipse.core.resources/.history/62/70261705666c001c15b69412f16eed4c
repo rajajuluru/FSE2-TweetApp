@@ -1,0 +1,6 @@
+package com.tweet.controller;
+
+@RestController
+public class HomeController {
+
+}

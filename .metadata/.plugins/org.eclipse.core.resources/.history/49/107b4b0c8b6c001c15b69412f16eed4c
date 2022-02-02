@@ -1,0 +1,5 @@
+server.port=9999
+
+#spring.data.mongodb.uri=mongodb+srv://raja:raja@cluster0.cruzb.mongodb.net
+
+spring.data.mongodb.uri=mongodb+srv://raja:raja@cluster0.cruzb.mongodb.net/tweetapp?retryWrites=true&w=majority

@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="spring-boot-mockito"/>
+<aop-project name="Spring-boot-Security-FormBasedAuth"/>
+<aop-project name="spring-boot-fullstack-professional-main"/>
+<aop-project name="RestServerProject"/>
+<aop-project name="Spring-boot-Security-1"/>
+<aop-project name="spring-mockito"/>
+<aop-project name="Spring-boot-Security-BasicAuth"/>
+<aop-project name="FlightBookingJWT"/>
+<aop-project name="Junit-Testing"/>
+<aop-project name="Tweet-App-APIGateway"/>
+<aop-project name="Tweet-App-EurekaServer"/>
+<aop-project name="TweetApplication"/>
+</aop-reference-model>

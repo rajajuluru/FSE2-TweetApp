@@ -1,0 +1,101 @@
+package com.tweet.model.service;
+
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.stereotype.Service;
+
+import com.tweet.helperClass.RegisterHelperClass;
+import com.tweet.helperClass.ResponseHelper;
+import com.tweet.model.ReplyTweetDetails;
+import com.tweet.model.TweetsDetails;
+
+@Service
+public class TweeterImplements implements TweeterService{
+
+	@Autowired
+	private MongoTemplate template;
+	@Override
+	public ResponseHelper likeTweet(String tweetid, String userEmail) {
+		// TODO Auto-generated method stub
+		ResponseHelper res=new ResponseHelper(false,null);
+		System.out.println(tweetid+"     tweetid"+"                  userEmail      "+userEmail);
+		TweetsDetails tweetdetails = template.findById(tweetid, TweetsDetails.class);
+		Optional<TweetsDetails> optionalTweetDetails = Optional.ofNullable(tweetdetails);
+		if(optionalTweetDetails.isPresent())
+		{
+			Query query = new Query();
+			query.addCriteria(Criteria.where("email").is(userEmail));
+			query.fields().exclude("password");
+			RegisterHelperClass likedUserDetails = template.findOne(query, RegisterHelperClass.class);
+			Optional<RegisterHelperClass> likedUserOptional = Optional.ofNullable(likedUserDetails);
+			if(likedUserOptional.isPresent())
+			{
+				List<RegisterHelperClass> likedUsersList = tweetdetails.getLikedUsersList();
+				likedUsersList.add(likedUserDetails);
+				tweetdetails.setLikedUsersList(likedUsersList);
+				template.save(tweetdetails);
+				res.setData(tweetdetails);
+				res.setStatus(true);
+				return res;
+				
+				
+				
+			}else
+			{
+				res.setData("user details not found");
+				res.setStatus(false);
+				return res;
+			}
+			
+			
+		}else
+		{
+			res.setData("tweetid not found");
+			res.setStatus(false);
+			return res;
+		}
+		
+		
+	}
+	@Override
+	public ResponseHelper ReplyTweet(String tweetid, ReplyTweetDetails tweetDetails) {
+		// TODO Auto-generated method stub
+		if(tweetDetails.getMessage().length()>0)
+		{
+			TweetsDetails maintweetdetails = template.findById(tweetid.trim(), TweetsDetails.class);
+			Optional<TweetsDetails> Optioanlmaintweetdetails = Optional.ofNullable(maintweetdetails);
+			if(Optioanlmaintweetdetails.isPresent())
+			{
+				
+			if(!tweetDetails.getMessage().trim().isEmpty())
+			{
+				List<ReplyTweetDetails> repliedUsersList = maintweetdetails.getRepliedUsersList();
+				repliedUsersList.add(tweetDetails);
+				maintweetdetails.setRepliedUsersList(repliedUsersList);
+				template.save(maintweetdetails);
+				
+			}
+			else
+			{
+				
+			}
+			}
+			else
+			{
+				
+			}
+		}
+		else
+		{
+			
+		}
+		
+		return null;
+	}
+
+}

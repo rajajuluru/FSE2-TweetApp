@@ -1,0 +1,179 @@
+package com.tweet.controller;
+
+import java.time.LocalDateTime;
+import java.util.List;
+import java.util.Optional;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+import org.springframework.data.mongodb.core.query.Criteria;
+import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.data.mongodb.core.query.Update;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.PatchMapping;
+import org.springframework.web.bind.annotation.PathVariable;
+import org.springframework.web.bind.annotation.PostMapping;
+import org.springframework.web.bind.annotation.RequestBody;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+import com.tweet.helperClass.Login;
+import com.tweet.helperClass.RegisterHelperClass;
+import com.tweet.helperClass.ResponseHelper;
+import com.tweet.model.TweetsDetails;
+import com.tweet.model.service.TweeterService;
+
+@RestController
+@RequestMapping(value = "/api/v1.0/tweets")
+public class HomeController {
+
+	@Autowired
+	MongoTemplate mongoTemplate;
+
+	@PostMapping(value = "/register")
+	public RegisterHelperClass Register(@RequestBody RegisterHelperClass registerHelperClass) {
+		System.out.println(registerHelperClass.toString());
+		RegisterHelperClass save = mongoTemplate.save(registerHelperClass, "RegistrationDetails");
+		return registerHelperClass;
+	}
+
+	@PostMapping(value = "/login")
+	public RegisterHelperClass Register(@RequestBody Login login) {
+		System.out.println(login.toString());
+		RegisterHelperClass findById = mongoTemplate.findById(login.getEmail(), RegisterHelperClass.class);
+		Optional<RegisterHelperClass> of = Optional.ofNullable(findById);
+		System.out.println(of.isPresent() + "is present");
+		System.out.println();
+		return findById;
+	}
+
+	@GetMapping(value = "/all")
+	public List<TweetsDetails> getAllTweets() {
+
+		Query query = new Query();
+		query.addCriteria(Criteria.where("status").is(0));
+		// query.fields().i
+
+		List<TweetsDetails> find = mongoTemplate.find(query, TweetsDetails.class);
+		return find;
+
+	}
+
+	@PostMapping(value = "/addTweet")
+	public String postTweet(@RequestBody TweetsDetails details) {
+		System.out.println(details.toString());
+		if (details.getMessage().length() > 144) {
+			return "tweetLimitCrossed";
+		} else {
+			details.setStatus(0);
+			details.setTweetdate(LocalDateTime.now());
+			details.setUserEmail("2042954@cognizant.com");
+			// details.set
+			TweetsDetails save = mongoTemplate.save(details);
+			return save.toString();
+		}
+
+	}
+
+	@GetMapping(value = "/allUsers")
+	public ResponseHelper allUsers() {
+		Query query = new Query();
+		query.fields().exclude("password");
+
+		List<RegisterHelperClass> find = mongoTemplate.find(query, RegisterHelperClass.class);
+		ResponseHelper res = new ResponseHelper(true, find);
+		return res;
+
+	}
+
+	@PatchMapping(value = "/updateTweet/{tweetid}")
+	public ResponseHelper updateTweet(@PathVariable(name = "tweetid") String tweetid,
+			@RequestBody TweetsDetails details) {
+
+		ResponseHelper res = new ResponseHelper(false, null);
+		TweetsDetails findById = mongoTemplate.findById(tweetid, TweetsDetails.class);
+		Optional<TweetsDetails> ofNullable = Optional.ofNullable(findById);
+		if (ofNullable.isPresent()) {
+			TweetsDetails tweetsDetails = ofNullable.get();
+			tweetsDetails.setMessage(details.getMessage());
+			TweetsDetails save = mongoTemplate.save(tweetsDetails);
+			res.setStatus(true);
+			res.setData(save);
+
+			return res;
+
+		} else {
+			res.setStatus(false);
+			res.setData("enter proper tweetid");
+			return res;
+		}
+
+	}
+
+	@PatchMapping(value = "/deleteTweet/{tweetid}")
+	public ResponseHelper deleteTweet(@PathVariable(name = "tweetid") String tweetid) {
+
+		ResponseHelper res = new ResponseHelper(false, null);
+
+		Query query = new Query();
+		query.addCriteria(Criteria.where("tweetId").is(tweetid));
+		TweetsDetails findById = mongoTemplate.findOne(query, TweetsDetails.class);
+
+		Optional<TweetsDetails> ofNullable = Optional.ofNullable(findById);
+		if (ofNullable.isPresent()) {
+			Update update = new Update();
+			update.set("status", 1);
+			TweetsDetails findAndModify = mongoTemplate.findAndModify(query, update, TweetsDetails.class);
+
+			res.setStatus(true);
+			res.setData(findAndModify);
+
+			return res;
+
+		} else {
+			res.setStatus(false);
+			res.setData("enter proper tweetid");
+			return res;
+		}
+
+	}
+
+	@Autowired
+	private TweeterService tweeterService;
+
+	@GetMapping(value = "/likeTweet/{tweetid}/{useremail}")
+	public ResponseHelper updateTweet(@PathVariable(name = "tweetid") String tweetid,
+			@PathVariable(name = "useremail") String useremail) {
+		ResponseHelper likeTweet = null;
+
+		try {
+			likeTweet = tweeterService.likeTweet(tweetid, useremail);
+			return likeTweet;
+		} catch (Exception e) {
+			// TODO: handle exception
+			ResponseHelper responseHelper = new ResponseHelper(false, "something went wrong");
+			return responseHelper;
+		}
+
+	}
+	
+	
+	@PostMapping(value = "/replyTweet/{tweetid}/{useremail}")
+	public ResponseHelper replyTweet(@PathVariable(name = "tweetid") String tweetid,
+			@RequestBody TweetsDetails details
+			) {
+		System.out.println(details+"details ");
+		ResponseHelper likeTweet = null;
+
+		try {
+			likeTweet = tweeterService.likeTweet(tweetid, useremail);
+			return likeTweet;
+		} catch (Exception e) {
+			// TODO: handle exception
+			ResponseHelper responseHelper = new ResponseHelper(false, "something went wrong");
+			return responseHelper;
+		}
+
+	}
+
+}

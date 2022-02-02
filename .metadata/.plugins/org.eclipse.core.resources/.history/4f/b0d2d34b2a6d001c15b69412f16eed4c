@@ -1,0 +1,13 @@
+package com.tweet.model.service;
+
+import com.tweet.helperClass.ResponseHelper;
+
+public class TweeterImplements implements TweeterService{
+
+	@Override
+	public ResponseHelper likeTweet(String tweetid, String userEmail) {
+		// TODO Auto-generated method stub
+		return null;
+	}
+
+}

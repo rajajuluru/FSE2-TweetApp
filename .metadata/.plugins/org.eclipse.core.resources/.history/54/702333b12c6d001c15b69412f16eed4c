@@ -1,0 +1,9 @@
+package com.tweet.model.service;
+
+import com.tweet.helperClass.ResponseHelper;
+
+public interface TweeterService {
+	
+	public ResponseHelper likeTweet(String tweetid,String userEmail);
+
+}

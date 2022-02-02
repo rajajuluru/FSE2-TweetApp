@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;RegisterHelperClass.java&apos; to &apos;Tweet-App-APIGateway/src/main/java/com.juluru.models&apos;&#x0D;&#x0A;- Original project: &apos;TweetApplication&apos;&#x0D;&#x0A;- Destination element: &apos;Tweet-App-APIGateway/src/main/java/com.juluru.models&apos;&#x0D;&#x0A;- Original element: &apos;com.tweet.helperClass.RegisterHelperClass.java&apos;" description="Copy compilation unit" destination="=Tweet-App-APIGateway/src\/main\/java&lt;com.juluru.models" element1="/src\/main\/java&lt;com.tweet.helperClass{RegisterHelperClass.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1642509612224" units="1" version="1.0"/>
+</session>

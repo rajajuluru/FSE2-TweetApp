@@ -1,0 +1,6 @@
+package com.juluru.controller;
+
+@Controller
+public class TemplateController {
+
+}

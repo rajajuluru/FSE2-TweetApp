@@ -1,0 +1,20 @@
+package com.tweet.model.service;
+
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.data.mongodb.core.MongoTemplate;
+
+import com.tweet.helperClass.ResponseHelper;
+
+public class TweeterImplements implements TweeterService{
+
+	@Autowired
+	private MongoTemplate template;
+	@Override
+	public ResponseHelper likeTweet(String tweetid, String userEmail) {
+		// TODO Auto-generated method stub
+		System.out.println(tweetid+"     tweetid"+"                  userEmail      "+userEmail);
+		
+		return null;
+	}
+
+}

@@ -1,0 +1,30 @@
+package com.juluru.controller;
+
+import org.springframework.http.HttpEntity;
+import org.springframework.http.HttpHeaders;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RestController;
+
+@RestController
+public class BasicAuthController {
+
+
+	@GetMapping("/hello")
+	//@PreAuthorize("hasRole('STUDENT')")
+	public String hellocontroller()
+	{
+		HttpHeaders hd=new HttpHeaders();
+		HttpEntity entity=new HttpEntity<>("", hd);
+		
+		return "hello Basic Authentication";
+		
+	}
+	
+	@GetMapping("/")
+	//@PreAuthorize("hasRole('STUDENT')")
+	public String formbased()
+	{
+		return "spring boot formbased";
+		
+	}
+}

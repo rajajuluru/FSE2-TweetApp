@@ -1,0 +1,9 @@
+package com.tweet.helperClass;
+
+public class Login {
+	
+	private String email;
+	private String password;
+	
+
+}

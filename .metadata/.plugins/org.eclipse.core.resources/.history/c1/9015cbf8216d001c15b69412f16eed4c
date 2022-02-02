@@ -1,0 +1,9 @@
+package com.tweet.helperClass;
+
+public class ResponseHelper {
+	
+	private boolean status;
+	private Object data;
+	
+
+}

@@ -1,0 +1,13 @@
+#eureka connection properties
+spring.application.name=JWT-CLIENT
+eureka.client.register-with-eureka=true
+eureka.client.fetch-registry=true
+eureka.instance.hostname=localhost
+#eureka.client.serviceUrl.defaultZone =http://localhost:8081/eureka
+eureka.client.serviceUrl.defaultZone =http://ec2-18-218-225-1.us-east-2.compute.amazonaws.com:9000/eureka
+#zuul.routes.admin.path=/Admin/**
+#zuul.routes.admin.url=FlightBookingServices
+zuul.routes.booking.path=/FlightBookingServices/**
+zuul.routes.booking.url=FlightBookingServices
+ribbon.ReadTimeout= 600000
+server.port=5555

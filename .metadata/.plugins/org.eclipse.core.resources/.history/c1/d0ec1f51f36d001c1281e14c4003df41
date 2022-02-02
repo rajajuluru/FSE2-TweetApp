@@ -1,0 +1,12 @@
+server.port=9999
+
+#spring.data.mongodb.uri=mongodb+srv://raja:raja@cluster0.mongodb.net/tweetapp
+
+#spring.data.mongodb.uri: mongodb://admin:admin@localhost:27017/tweetapp
+#spring.data.mongodb.uri=mongodb+srv://raja:raja@cluster0.h1hm8k.mongodb.net/tweetapp?retryWrites=true&w=majority
+
+spring.data.mongodb.database=tweetapp
+
+#spring.data.mongodb.uri=mongodb://localhost:27017/?readPreference=primary&appname=MongoDB%20Compass&directConnection=true&ssl=false
+#spring.data.mongodb.uri=mongodb://raja:raja@cluster0-shard-00-00.cpfqr.mongodb.net:27017,cluster0-shard-00-01.cpfqr.mongodb.net:27017,cluster0-shard-00-02.cpfqr.mongodb.net:27017/tweetapp?replicaSet=atlas-kq7izj-shard-0&ssl=true&authSource=admin
+spring.data.mongodb.uri=mongodb+srv://raja:raja@cluster0.cpfqr.mongodb.net/mydb?retryWrites=true&w=majority

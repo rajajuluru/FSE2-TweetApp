@@ -1,0 +1,11 @@
+package com.tweet.helperClass;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class RegisterHelperClass {
+
+	private String FirstName;
+
+	private String LastName;
+}
