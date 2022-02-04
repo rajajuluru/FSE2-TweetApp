@@ -60,7 +60,7 @@ public class SecurityConfiguration extends WebSecurityConfigurerAdapter {
         http.csrf()
                 .disable();
         http .authorizeRequests()
-                .antMatchers("/tweetapp/**/register","/authenticate","/validateToken","/getuserid","/user/register","/getuserrole","/getuserdetailsnew","/test")
+                .antMatchers("/tweetapp/**/register","/authenticate","/validateToken","/getuserid","/user/register","/getuserrole","/getuserdetailsnew","/test","/validateTokenByRestApi")
                 .permitAll()
                 .anyRequest()
                 .authenticated()

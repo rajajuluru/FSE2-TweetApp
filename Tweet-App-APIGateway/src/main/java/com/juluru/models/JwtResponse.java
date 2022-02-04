@@ -26,11 +26,11 @@ public class JwtResponse {
 
 	private String data;
 
-	public String getJwtToken() {
+	public String getdata() {
 		return data;
 	}
 
-	public void setJwtToken(String jwtToken) {
-		this.data = jwtToken;
+	public void setdata(String data) {
+		this.data = data;
 	}
 }

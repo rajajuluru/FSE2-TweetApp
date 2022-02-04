@@ -5,7 +5,6 @@
 <fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalanced"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.openfeign.FeignClient"/>
 <fullyQualifiedTypeName name="org.springframework.context.annotation.EnableLoadTimeWeaving"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
 <fullyQualifiedTypeName name="org.springframework.security.config.annotation.method.configuration.EnableGlobalMethodSecurity"/>
 <fullyQualifiedTypeName name="javax.servlet.http.HttpServletRequest"/>
 <fullyQualifiedTypeName name="java.util.function.Consumer"/>
@@ -29,14 +28,12 @@
 <fullyQualifiedTypeName name="org.mockito.InjectMocks"/>
 <fullyQualifiedTypeName name="org.mockito.runners.MockitoJUnitRunner"/>
 <fullyQualifiedTypeName name="org.mockito.junit.MockitoJUnitRunner"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 <fullyQualifiedTypeName name="org.springframework.data.mongodb.repository.MongoRepository"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.netflix.eureka.server.EnableEurekaServer"/>
 <fullyQualifiedTypeName name="java.time.LocalDateTime"/>
 <fullyQualifiedTypeName name="com.tweet.helperClass.RegisterHelperClass"/>
 <fullyQualifiedTypeName name="org.springframework.cloud.client.loadbalancer.LoadBalancerClient"/>
 <fullyQualifiedTypeName name="org.springframework.http.HttpMethod"/>
-<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
 <fullyQualifiedTypeName name="com.juluru.models.RegisterHelperClass"/>
 <fullyQualifiedTypeName name="org.hibernate.validator.constraints.NotBlank"/>
 <fullyQualifiedTypeName name="org.hibernate.validator.constraints.Email"/>
@@ -60,4 +57,7 @@
 <fullyQualifiedTypeName name="java.util.concurrent.CopyOnWriteArrayList"/>
 <fullyQualifiedTypeName name="com.tweet.model.TweetsDetails"/>
 <fullyQualifiedTypeName name="com.tweet.helperClass.ResponseHelper"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.GetMapping"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.PathVariable"/>
+<fullyQualifiedTypeName name="org.springframework.web.bind.annotation.RequestBody"/>
 </qualifiedTypeNameHistroy>

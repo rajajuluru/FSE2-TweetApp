@@ -1,0 +1,38 @@
+package com.tweet.model;
+
+import java.time.LocalDateTime;
+
+public class ReplyTweetDetails {
+//private String replyTweetId;
+private String message;
+private LocalDateTime tweetTime;
+private String userEmail;
+private Integer status;
+public String getuserEmail() {
+	return userEmail;
+}
+public void setuserEmail(String userEmail) {
+	this.userEmail = userEmail;
+}
+public String getMessage() {
+	return message;
+}
+public void setMessage(String message) {
+	this.message = message;
+}
+public LocalDateTime getTweetTime() {
+	return tweetTime;
+}
+public void setTweetTime(LocalDateTime tweetTime) {
+	this.tweetTime = tweetTime;
+}
+public Integer getStatus() {
+	return status;
+}
+public void setStatus(Integer status) {
+	this.status = status;
+}
+
+
+
+}

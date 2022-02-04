@@ -1,0 +1,7 @@
+package com.juluru.models;
+
+public class ValidateToken {
+	private String token;
+	private String userid;
+
+}

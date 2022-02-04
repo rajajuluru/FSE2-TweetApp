@@ -1,0 +1,14 @@
+package com.juluru.controller;
+
+import org.springframework.web.bind.annotation.GetMapping;
+
+public class BasicAuthController {
+
+
+	@GetMapping("/hello")
+	public String hellocontroller()
+	{
+		return "hello";
+		
+	}
+}

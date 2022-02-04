@@ -1,0 +1,13 @@
+package com.tweet.model;
+
+import java.time.LocalDateTime;
+
+public class ReplyTweetDetails {
+private String replyTweetId;
+private String message;
+private LocalDateTime tweetTime;
+
+
+
+
+}

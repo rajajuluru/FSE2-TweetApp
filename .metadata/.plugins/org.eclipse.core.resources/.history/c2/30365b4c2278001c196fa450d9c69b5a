@@ -1,0 +1,23 @@
+package com.tweet.model.service;
+
+import org.springframework.stereotype.Service;
+
+import com.tweet.helperClass.ResponseHelper;
+import com.tweet.model.ReplyTweetDetails;
+
+@Service
+public interface TweeterService {
+
+	public ResponseHelper likeTweet(String tweetid, String userEmail);
+
+	public ResponseHelper ReplyTweet(String tweetid, ReplyTweetDetails tweetDetails,String useremail);
+
+	public ResponseHelper getAllUsers();
+	public ResponseHelper SearchByUsers(String uname);
+	public ResponseHelper getAllTweetsByUsers(String uname);
+	public ResponseHelper deleteTweet(String tweetid);
+	public ResponseHelper updateTweet(String tweetid);
+	
+	public ResponseHelper getAllTweets();
+
+}

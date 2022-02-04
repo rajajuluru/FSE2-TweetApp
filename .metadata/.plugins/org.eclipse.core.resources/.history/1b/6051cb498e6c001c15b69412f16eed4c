@@ -1,0 +1,15 @@
+package com.tweet.model;
+
+import java.time.LocalDate;
+import java.time.LocalDateTime;
+
+public class TweetsDetails {
+	
+	private String tweetId;
+	private String userEmail;
+	private String message;
+	private LocalDateTime tweetdate;
+	
+	
+
+}

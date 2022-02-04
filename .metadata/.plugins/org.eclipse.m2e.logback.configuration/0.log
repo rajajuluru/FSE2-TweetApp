@@ -16380,3 +16380,529 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-02-02 12:42:58,343 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
 2022-02-02 12:42:58,346 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
 2022-02-02 12:42:58,346 [Worker-42] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-02 17:23:41,310 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:23:41,312 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:23:41,350 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:23:41,354 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:23:41,354 [Worker-139] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:24:03,547 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:24:03,561 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:24:03,590 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:24:03,592 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:24:03,593 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:24:14,788 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:24:14,796 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:24:14,828 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:24:14,832 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:24:14,833 [Worker-142] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:27:21,899 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:21,909 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:27:21,941 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:27:21,944 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:21,945 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:27:35,330 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:35,337 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:27:35,374 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:27:35,380 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:35,380 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:27:50,255 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:50,270 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:27:50,315 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:27:50,319 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:27:50,319 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:28:30,585 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:28:30,595 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:28:30,633 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:28:30,636 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:28:30,637 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:29:10,026 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:29:10,035 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:29:10,073 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:29:10,082 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:29:10,082 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:29:41,951 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:29:41,957 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:29:41,987 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:29:41,991 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:29:41,991 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:30:14,857 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:14,864 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:30:14,889 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:30:14,891 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:14,892 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:30:32,544 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:32,552 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:30:32,586 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:30:32,590 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:32,590 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:30:37,027 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:37,029 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:30:37,035 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:30:37,038 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:30:37,038 [Worker-146] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:31:15,709 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:15,715 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:31:15,743 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:31:15,748 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:15,748 [Worker-140] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:31:28,856 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:28,862 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:31:28,892 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:31:28,896 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:28,896 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:31:42,215 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:42,222 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:31:42,252 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:31:42,255 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:42,256 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:31:54,518 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:54,525 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:31:54,553 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:31:54,558 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:31:54,559 [Worker-145] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:32:22,747 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:22,755 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:32:22,787 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:32:22,791 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:22,792 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:32:27,608 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:27,609 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:32:27,615 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:32:27,618 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:27,619 [Worker-141] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:32:33,247 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:33,253 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:32:33,280 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:32:33,282 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:33,283 [Worker-148] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:32:37,564 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:37,566 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:32:37,574 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:32:37,576 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:32:37,577 [Worker-147] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:33:13,187 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:33:13,197 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:33:13,244 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:33:13,249 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:33:13,250 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:44:04,383 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:44:04,393 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:44:04,414 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:44:04,417 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:44:04,417 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:49:26,471 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:49:26,477 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:49:26,501 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:49:26,503 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:49:26,503 [Worker-152] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:59:42,939 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:59:42,945 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:59:42,970 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:59:42,977 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:59:42,978 [Worker-158] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 17:59:47,764 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:59:47,765 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 17:59:47,771 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 17:59:47,774 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 17:59:47,775 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:00:08,393 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:08,398 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:00:08,421 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:00:08,424 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:08,424 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:00:10,915 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:10,916 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:00:10,921 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:00:10,924 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:10,924 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:00:20,628 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:20,635 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:00:20,669 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:00:20,673 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:20,673 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:00:45,997 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:46,003 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:00:46,031 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:00:46,034 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:00:46,034 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:01:01,818 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:01,825 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:01:01,852 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:01:01,855 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:01,855 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:01:12,678 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:12,685 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:01:12,714 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:01:12,717 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:12,717 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:01:51,188 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:51,194 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:01:51,221 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:01:51,223 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:51,223 [Worker-151] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:01:54,426 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:54,427 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:01:54,433 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:01:54,436 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:54,437 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:01:58,878 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:58,880 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:01:58,886 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:01:58,889 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:01:58,890 [Worker-150] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:02:13,295 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:13,301 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:02:13,327 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:02:13,330 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:13,330 [Worker-160] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:02:24,476 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:24,482 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:02:24,512 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:02:24,515 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:24,515 [Worker-132] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:02:42,041 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:42,048 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:02:42,076 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:02:42,119 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:42,119 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 18:02:51,055 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:51,056 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 18:02:51,063 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 18:02:51,066 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 18:02:51,066 [Worker-159] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:14:49,642 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:14:49,648 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:14:49,681 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:14:49,683 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:14:49,683 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:14:54,956 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:14:54,958 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:14:55,063 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:14:55,065 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:14:55,065 [Worker-182] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:15:19,328 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:15:19,334 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:15:19,356 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:15:19,358 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:15:19,358 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:17:50,063 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:17:50,070 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:17:50,090 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:17:50,092 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:17:50,092 [Worker-188] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:19:46,476 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:19:46,481 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:19:46,501 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:19:46,503 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:19:46,503 [Worker-161] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:23:54,444 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:23:54,449 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:23:54,470 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:23:54,472 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:23:54,472 [Worker-180] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:24:10,687 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:24:10,692 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:24:10,714 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:24:10,716 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:24:10,716 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:25:47,993 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:25:47,998 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:25:48,019 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:25:48,022 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:25:48,022 [Worker-186] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:32:40,800 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:32:40,806 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:32:40,830 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:32:40,833 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:32:40,833 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:34:49,243 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:34:49,249 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:34:49,271 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:34:49,278 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:34:49,278 [Worker-189] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:34:52,816 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:34:52,817 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:34:52,822 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:34:52,824 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:34:52,825 [Worker-193] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:35:10,626 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:35:10,633 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:35:10,657 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:35:10,659 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:35:10,659 [Worker-194] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-02 19:35:18,330 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:35:18,331 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-02 19:35:18,335 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-02 19:35:18,338 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-02 19:35:18,339 [Worker-185] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-03 12:12:58,899 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:12:58,915 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:12:58,922 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:12:58,980 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:12:58,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:12:58,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:12:58,985 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Junit-Testing\src\test\resources
+2022-02-03 12:13:08,018 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:08,018 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:08,019 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:13:08,547 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:13:08,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:08,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:08,551 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\RestServerProject\src\test\resources
+2022-02-03 12:13:12,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:12,188 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:12,189 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:13:12,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:13:12,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:12,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:12,227 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Spring-boot-Security-1\src\test\resources
+2022-02-03 12:13:14,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:14,620 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:14,621 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:13:14,648 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-03 12:13:14,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:14,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:14,681 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Spring-boot-Security-FormBasedAuth\src\test\resources
+2022-02-03 12:13:22,616 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:22,616 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:22,617 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:13:22,644 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:13:22,647 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:22,647 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:13:22,647 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-EurekaServer\src\test\resources
+2022-02-03 12:13:37,434 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:37,436 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:13:37,474 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:13:37,478 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:13:37,479 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-03 12:13:45,614 [Worker-4] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend
+2022-02-03 12:13:58,692 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,693 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - up to date, audited 2038 packages in 12s
+2022-02-03 12:13:58,693 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,693 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 127 packages are looking for funding
+2022-02-03 12:13:58,700 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2022-02-03 12:13:58,772 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 119 vulnerabilities (102 moderate, 15 high, 2 critical)
+2022-02-03 12:13:58,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To address issues that do not require attention, run:
+2022-02-03 12:13:58,773 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm audit fix
+2022-02-03 12:13:58,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To address all issues (including breaking changes), run:
+2022-02-03 12:13:58,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm audit fix --force
+2022-02-03 12:13:58,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:13:58,774 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Run `npm audit` for details.
+2022-02-03 12:13:58,801 [Worker-4] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend
+2022-02-03 12:14:00,733 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:00,734 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend@0.1.0 build
+2022-02-03 12:14:00,734 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2022-02-03 12:14:00,734 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:09,106 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - (node:9776) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+2022-02-03 12:14:09,106 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Update this package.json to use a subpath pattern like "./*".
+2022-02-03 12:14:09,107 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - (Use `node --trace-deprecation ...` to show where the warning was created)
+2022-02-03 12:14:09,546 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2022-02-03 12:14:14,178 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Browserslist: caniuse-lite is outdated. Please run:
+2022-02-03 12:14:14,178 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - npx browserslist@latest --update-db
+2022-02-03 12:14:14,178 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:14,179 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Why you should do it regularly:
+2022-02-03 12:14:14,179 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - https://github.com/browserslist/browserslist#browsers-data-updating
+2022-02-03 12:14:49,956 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled successfully.
+2022-02-03 12:14:49,956 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:49,957 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2022-02-03 12:14:49,957 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,036 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   200.46 KB  build\static\js\2.c9e4cde3.chunk.js
+2022-02-03 12:14:50,036 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   65.22 KB   build\static\css\2.fc2db407.chunk.css
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   2.77 KB    build\static\js\main.22f8ba41.chunk.js
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.59 KB    build\static\js\3.7d688434.chunk.js
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB    build\static\js\runtime-main.e072a479.js
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   651 B      build\static\css\main.d10223e4.chunk.css
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /.
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You may serve it with a static server:
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm install -g serve
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   serve -s build
+2022-02-03 12:14:50,037 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2022-02-03 12:14:50,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2022-02-03 12:14:50,038 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-03 12:14:50,457 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:14:50,457 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:14:50,458 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:14:50,486 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:14:50,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:14:50,491 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:14:50,492 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2022-02-03 12:14:51,104 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:14:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:14:51,105 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\test\resources
+2022-02-03 12:14:56,225 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:14:56,225 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:14:56,226 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-03 12:14:56,254 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 12:14:56,257 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 12:14:56,257 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-03 12:14:56,257 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-boot-mockito-master\src\test\resources
+2022-02-03 13:30:25,771 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 13:30:25,771 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-03 13:30:25,802 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-03 13:30:25,805 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-03 13:30:25,805 [Worker-39] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-04 13:15:27,893 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:15:27,911 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:15:27,932 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:15:27,934 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:15:27,935 [Worker-54] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:15:44,096 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:15:44,099 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:15:44,101 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:15:44,104 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:15:44,104 [Worker-50] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:18:57,167 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:18:57,167 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:18:57,169 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:18:57,173 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:18:57,173 [Worker-34] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:23:15,374 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:23:15,375 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:23:15,377 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:23:15,380 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:23:15,381 [Worker-61] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:39:53,227 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:39:53,228 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:39:53,230 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:39:53,233 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:39:53,234 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:40:23,415 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:23,415 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:40:23,417 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:40:23,419 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:23,419 [Worker-76] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:40:47,892 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:47,893 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:40:47,897 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:40:47,900 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:47,900 [Worker-72] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:40:55,102 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:55,103 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:40:55,105 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:40:55,110 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:40:55,110 [Worker-73] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:43:58,675 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:43:58,676 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:43:58,678 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:43:58,680 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:43:58,680 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:44:08,032 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:44:08,033 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:44:08,035 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:44:08,037 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:44:08,038 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:46:37,188 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:46:37,188 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:46:37,190 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:46:37,192 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:46:37,193 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:47:46,793 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:47:46,794 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:47:46,796 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:47:46,798 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:47:46,798 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:47:52,498 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:47:52,499 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:47:52,501 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:47:52,502 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:47:52,503 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:48:01,535 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:48:01,535 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:48:01,537 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:48:01,539 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:48:01,539 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:48:46,748 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:48:46,748 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:48:46,750 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:48:46,752 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:48:46,753 [Worker-77] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:50:51,421 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:50:51,422 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:50:51,424 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:50:51,427 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:50:51,428 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:50:55,657 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:50:55,657 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:50:55,659 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:50:55,662 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:50:55,662 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:52:01,409 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:01,409 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:52:01,412 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:52:01,414 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:01,415 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:52:21,862 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:21,862 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:52:21,864 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:52:21,866 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:21,867 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:52:31,899 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:31,899 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:52:31,901 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:52:31,903 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:31,903 [Worker-84] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:52:44,331 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:44,332 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:52:44,334 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:52:44,336 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:52:44,337 [Worker-75] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:55:34,203 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:55:34,204 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:55:34,206 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:55:34,209 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:55:34,209 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 13:55:38,966 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:55:38,967 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 13:55:38,969 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 13:55:38,972 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 13:55:38,972 [Worker-78] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:02:40,647 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:02:40,648 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:02:40,650 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:02:40,652 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:02:40,652 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:03:28,680 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:03:28,680 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:03:28,683 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:03:28,685 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:03:28,685 [Worker-89] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:05:39,470 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:05:39,471 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:05:39,472 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:05:39,475 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:05:39,475 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:06:29,338 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:06:29,338 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:06:29,340 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:06:29,342 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:06:29,342 [Worker-85] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:06:41,403 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:06:41,404 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:06:41,406 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:06:41,407 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:06:41,409 [Worker-93] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:08:51,281 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:08:51,282 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:08:51,284 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:08:51,286 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:08:51,286 [Worker-96] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:09:41,757 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:09:41,758 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:09:41,761 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:09:41,763 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:09:41,763 [Worker-90] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-04 14:09:43,924 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:09:43,925 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-04 14:09:43,927 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-04 14:09:43,929 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-04 14:09:43,929 [Worker-81] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources

@@ -16,6 +16,7 @@ import org.springframework.web.bind.annotation.RestController;
 
 import com.juluru.models.JwtRequest;
 import com.juluru.models.JwtResponse;
+import com.juluru.models.ValidateToken;
 import com.juluru.services.UserService;
 import com.juluru.utilities.JWTUtility;
 
@@ -111,32 +112,38 @@ public class HomeController {
 
 	}
 	
-	
-/*	@GetMapping("getuserdetailsnew")
-	public ResponseHelperClass getuserdetailsnew(HttpServletRequest request) {
-		UserDetailsHelperClass helper=new UserDetailsHelperClass();
-		ResponseHelperClass res=new ResponseHelperClass();
-		try
+
+@PostMapping("/validateTokenByRestApi")
+public JwtResponse validateTokenByRestApi(@RequestBody 	ValidateToken tokendata)
+{
+	System.out.println("validateTokenByRestApi method is called");
+	JwtResponse res=new JwtResponse();
+	Boolean validateTokenByRestApi =false;
+	try{
+		System.out.println(tokendata+"tokendatatokendatatokendatatokendata");
+		validateTokenByRestApi=jwtUtility.validateTokenByRestApi(tokendata.getToken().trim().substring(3), tokendata.getUserid());
+	System.out.println(validateTokenByRestApi+"boolean from a method");
+		if(validateTokenByRestApi)
 		{
-			System.out.println("authorization getUserid" + request.getHeader("Authorization").substring(3));
-			String usernameFromToken = jwtUtility.getUsernameFromToken(request.getHeader("Authorization").trim().substring(3));
-			String role = jwtUtility.getRoleFromToken(request.getHeader("Authorization").trim().substring(3));
-			
-			helper.setRole(role);
-			helper.setUsername(usernameFromToken);
-			
-			res.setData(helper);
 			res.setStatus(true);
+			res.setdata("validated");
 			return res;
 		}
-		catch (Exception e) {
-			// TODO: handle exception
-			res.setData("invalid jwttoken");
+		else
+		{
 			res.setStatus(false);
+			res.setdata("invalid token");
 			return res;
 		}
-		*/
+	}catch (Exception e) {
+		// TODO: handle exception
+		res.setStatus(false);
+		res.setdata(e.getMessage());
+		e.printStackTrace();
+		return res;
+	}
 	
+}
 
 	}
 

@@ -1,0 +1,10 @@
+package com.tweet.model;
+
+
+public class ReplyTweetDetails {
+private String replyTweetId;
+private String message;
+
+
+
+}

@@ -1,0 +1,6 @@
+package com.juluru.models;
+
+public class ValidateToken {
+	
+
+}

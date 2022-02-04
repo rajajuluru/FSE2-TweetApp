@@ -1,0 +1,5 @@
+package com.tweet.model;
+
+public class ReplyTweetDetails {
+
+}

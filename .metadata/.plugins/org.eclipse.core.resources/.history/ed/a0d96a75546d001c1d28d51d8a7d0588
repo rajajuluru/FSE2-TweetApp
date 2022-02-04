@@ -1,0 +1,83 @@
+package com.tweet.model;
+
+import java.time.LocalDateTime;
+
+public class ReplyTweetDetails {
+//private String replyTweetId;
+private String message;
+private LocalDateTime tweetTime;
+private String userEmail;
+private Integer status;
+public String getReplyTweetId() {
+	return replyTweetId;
+}
+public void setReplyTweetId(String replyTweetId) {
+	this.replyTweetId = replyTweetId;
+}
+public String getMessage() {
+	return message;
+}
+public void setMessage(String message) {
+	this.message = message;
+}
+public LocalDateTime getTweetTime() {
+	return tweetTime;
+}
+public void setTweetTime(LocalDateTime tweetTime) {
+	this.tweetTime = tweetTime;
+}
+public Integer getStatus() {
+	return status;
+}
+public void setStatus(Integer status) {
+	this.status = status;
+}
+@Override
+public int hashCode() {
+	final int prime = 31;
+	int result = 1;
+	result = prime * result + ((message == null) ? 0 : message.hashCode());
+	result = prime * result + ((replyTweetId == null) ? 0 : replyTweetId.hashCode());
+	result = prime * result + ((status == null) ? 0 : status.hashCode());
+	result = prime * result + ((tweetTime == null) ? 0 : tweetTime.hashCode());
+	return result;
+}
+@Override
+public boolean equals(Object obj) {
+	if (this == obj)
+		return true;
+	if (obj == null)
+		return false;
+	if (getClass() != obj.getClass())
+		return false;
+	ReplyTweetDetails other = (ReplyTweetDetails) obj;
+	if (message == null) {
+		if (other.message != null)
+			return false;
+	} else if (!message.equals(other.message))
+		return false;
+	if (replyTweetId == null) {
+		if (other.replyTweetId != null)
+			return false;
+	} else if (!replyTweetId.equals(other.replyTweetId))
+		return false;
+	if (status == null) {
+		if (other.status != null)
+			return false;
+	} else if (!status.equals(other.status))
+		return false;
+	if (tweetTime == null) {
+		if (other.tweetTime != null)
+			return false;
+	} else if (!tweetTime.equals(other.tweetTime))
+		return false;
+	return true;
+}
+@Override
+public String toString() {
+	return "ReplyTweetDetails [replyTweetId=" + replyTweetId + ", message=" + message + ", tweetTime=" + tweetTime
+			+ ", status=" + status + "]";
+}
+
+
+}

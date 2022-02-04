@@ -94,4 +94,10 @@ public class JWTUtility implements Serializable {
         final String username = getUsernameFromToken(token);
         return (username.equals(userDetails.getUsername()) && !isTokenExpired(token));
     }
+    
+    public Boolean validateTokenByRestApi(String token, String emailid) {
+    	System.out.println(token+"validateTokenByRestApivalidateTokenByRestApi");
+        final String username = getUsernameFromToken(token);
+        return (username.equals(emailid) && !isTokenExpired(token));
+    }
 }
