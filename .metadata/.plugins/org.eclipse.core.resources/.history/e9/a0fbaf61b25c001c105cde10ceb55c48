@@ -1,9 +1,0 @@
-package com.juluru.security;
-
-public enum ApplicationUserRole {
-	STUDENT(),
-	ADMIN(); 
-	
-	
-
-}
