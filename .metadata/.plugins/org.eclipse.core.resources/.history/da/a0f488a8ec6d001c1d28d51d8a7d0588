@@ -1,0 +1,5 @@
+package com.tweet.repositories;
+
+public interface RegistartionHelperRepository {
+
+}

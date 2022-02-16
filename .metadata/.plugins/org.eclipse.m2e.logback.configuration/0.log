@@ -17553,3 +17553,193 @@ Caused by: org.eclipse.aether.transfer.ArtifactNotFoundException: Could not find
 2022-02-08 17:39:18,690 [Worker-116] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-boot-mockito-master\src\test\resources
 2022-02-08 17:39:20,688 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway
 2022-02-08 17:39:20,689 [Worker-122] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B package
+2022-02-15 13:06:25,324 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:25,348 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-15 13:06:25,397 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:06:25,400 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:25,401 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\FlightBookingJWT\src\test\resources
+2022-02-15 13:06:31,114 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:31,115 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:31,115 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:31,144 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:06:31,146 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:31,146 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:31,147 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Junit-Testing\src\test\resources
+2022-02-15 13:06:38,040 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:38,040 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:38,041 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:38,059 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:06:38,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:38,062 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:38,063 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\RestServerProject\src\test\resources
+2022-02-15 13:06:42,368 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:42,368 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:42,369 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:42,379 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:06:42,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:42,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:42,382 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Spring-boot-Security-1\src\test\resources
+2022-02-15 13:06:45,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:45,863 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:45,864 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:45,882 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:45,928 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:45,929 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:45,929 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Spring-boot-Security-BasicAuth\src\test\resources
+2022-02-15 13:06:49,111 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:49,111 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:49,112 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:06:49,127 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-15 13:06:49,175 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:06:49,175 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:06:49,175 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Spring-boot-Security-FormBasedAuth\src\test\resources
+2022-02-15 13:06:59,712 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juluru:Junit-Testing:0.0.1-SNAPSHOT @ C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\pom.xml.
+2022-02-15 13:07:12,742 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:12,743 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-15 13:07:12,801 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:07:12,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:12,805 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 13:07:17,805 [Worker-4] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.juluru:Junit-Testing:0.0.1-SNAPSHOT @ C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-EurekaServer\pom.xml.
+2022-02-15 13:07:26,064 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:26,065 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:07:26,065 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:07:26,085 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:07:26,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:26,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:07:26,089 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-EurekaServer\src\test\resources
+2022-02-15 13:07:41,650 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:41,650 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:07:41,675 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:07:41,678 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:07:41,678 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-15 13:07:57,072 [Worker-4] INFO  c.g.e.m.p.f.lib.NodeInstaller - Node v15.4.0 is already installed.
+2022-02-15 13:07:57,322 [Worker-4] INFO  c.g.e.m.p.frontend.lib.NPMInstaller - NPM 7.3.0 is already installed.
+2022-02-15 13:07:57,331 [Worker-4] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm install' in C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend
+2022-02-15 13:08:09,711 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,712 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - up to date, audited 2038 packages in 11s
+2022-02-15 13:08:09,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 127 packages are looking for funding
+2022-02-15 13:08:09,713 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   run `npm fund` for details
+2022-02-15 13:08:09,788 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,788 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 119 vulnerabilities (102 moderate, 15 high, 2 critical)
+2022-02-15 13:08:09,788 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,788 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To address issues that do not require attention, run:
+2022-02-15 13:08:09,788 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm audit fix
+2022-02-15 13:08:09,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - To address all issues (including breaking changes), run:
+2022-02-15 13:08:09,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm audit fix --force
+2022-02-15 13:08:09,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:09,789 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Run `npm audit` for details.
+2022-02-15 13:08:09,814 [Worker-4] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Running 'npm run build' in C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend
+2022-02-15 13:08:11,080 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:11,081 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > frontend@0.1.0 build
+2022-02-15 13:08:11,081 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - > react-scripts build
+2022-02-15 13:08:11,081 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:18,767 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - (node:10404) [DEP0148] DeprecationWarning: Use of deprecated folder mapping "./" in the "exports" field module resolution of the package at C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\frontend\node_modules\postcss-safe-parser\node_modules\postcss\package.json.
+2022-02-15 13:08:18,768 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Update this package.json to use a subpath pattern like "./*".
+2022-02-15 13:08:18,768 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - (Use `node --trace-deprecation ...` to show where the warning was created)
+2022-02-15 13:08:18,985 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Creating an optimized production build...
+2022-02-15 13:08:23,784 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Browserslist: caniuse-lite is outdated. Please run:
+2022-02-15 13:08:23,785 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - npx browserslist@latest --update-db
+2022-02-15 13:08:23,785 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:23,785 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Why you should do it regularly:
+2022-02-15 13:08:23,785 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - https://github.com/browserslist/browserslist#browsers-data-updating
+2022-02-15 13:08:54,413 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Compiled successfully.
+2022-02-15 13:08:54,413 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,413 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - File sizes after gzip:
+2022-02-15 13:08:54,414 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,477 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   200.46 KB  build\static\js\2.c9e4cde3.chunk.js
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   65.22 KB   build\static\css\2.fc2db407.chunk.css
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   2.77 KB    build\static\js\main.22f8ba41.chunk.js
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.59 KB    build\static\js\3.7d688434.chunk.js
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   1.17 KB    build\static\js\runtime-main.e072a479.js
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   651 B      build\static\css\main.d10223e4.chunk.css
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The project was built assuming it is hosted at /.
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You can control this with the homepage field in your package.json.
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - The build folder is ready to be deployed.
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - You may serve it with a static server:
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   npm install -g serve
+2022-02-15 13:08:54,478 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   serve -s build
+2022-02-15 13:08:54,479 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,479 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - Find out more about deployment here:
+2022-02-15 13:08:54,479 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,479 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner -   https://cra.link/deployment
+2022-02-15 13:08:54,479 [Exec Stream Pumper] INFO  c.g.e.m.p.f.lib.DefaultNpmRunner - 
+2022-02-15 13:08:54,722 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:08:54,722 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:08:54,723 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:08:54,740 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:08:54,745 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:08:54,745 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:08:54,750 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 20 resources
+2022-02-15 13:08:55,389 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:08:55,389 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:08:55,390 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\spring-boot-fullstack-professional-main\src\test\resources
+2022-02-15 13:09:02,199 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:09:02,200 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:09:02,200 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:09:02,220 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:09:02,223 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:09:02,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered properties files.
+2022-02-15 13:09:02,224 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-boot-mockito-master\src\test\resources
+2022-02-15 13:09:11,461 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:09:11,461 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-mockito-example-master\src\main\resources
+2022-02-15 13:09:11,461 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-mockito-example-master\src\main\resources
+2022-02-15 13:09:11,465 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:09:11,465 [Worker-4] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\spring boot mockmvc and mockito\spring-mockito-example-master\src\test\resources
+2022-02-15 13:58:33,965 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:33,968 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:58:33,984 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:58:33,986 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:33,987 [Worker-22] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 13:58:38,540 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:38,540 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:58:38,542 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:58:38,544 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:38,544 [Worker-26] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 13:58:53,815 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:53,816 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:58:53,826 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:58:53,828 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:58:53,828 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-15 13:59:20,965 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:59:20,966 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:59:20,971 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:59:20,973 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:59:20,973 [Worker-28] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 13:59:32,118 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway
+2022-02-15 13:59:32,119 [Worker-28] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2022-02-15 13:59:49,933 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication
+2022-02-15 13:59:49,933 [Worker-22] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2022-02-15 13:59:57,227 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:59:57,231 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 13:59:57,248 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 13:59:57,251 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 13:59:57,251 [Worker-25] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-15 18:13:12,682 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:12,682 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 18:13:12,693 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 18:13:12,696 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:12,696 [Worker-103] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication\src\test\resources
+2022-02-15 18:13:17,482 [Worker-105] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\TweetApplication
+2022-02-15 18:13:17,482 [Worker-105] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2022-02-15 18:13:31,043 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:31,044 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 1 resource
+2022-02-15 18:13:31,056 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 18:13:31,058 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:31,059 [Worker-100] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 18:13:36,676 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate - C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway
+2022-02-15 18:13:36,676 [Worker-104] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn -Ppom.xml -B install
+2022-02-15 18:13:40,550 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:40,552 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-15 18:13:40,575 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 18:13:40,577 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:13:40,577 [Worker-108] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources
+2022-02-15 18:14:02,648 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:14:02,649 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 2 resources
+2022-02-15 18:14:02,677 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Copying 0 resource
+2022-02-15 18:14:02,680 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2022-02-15 18:14:02,680 [Worker-107] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory C:\Users\2042954\OneDrive - Cognizant\Desktop\Spring boot Rest and Security\Tweet-App-APIGateway\src\test\resources

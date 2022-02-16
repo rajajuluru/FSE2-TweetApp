@@ -1,0 +1,6 @@
+package com.juluru.security;
+
+public enum ApplicationUserPermission {
+	
+
+}

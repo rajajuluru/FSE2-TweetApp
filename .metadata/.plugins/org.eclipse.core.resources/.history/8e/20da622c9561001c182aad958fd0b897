@@ -1,0 +1,18 @@
+package dummy;
+
+import java.util.function.Consumer;
+
+public class Dummy {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		  Consumer<Integer> display = a -> System.out.println(a);
+		  
+		  display.andThen(s->System.out.println(s+"in then")).accept(s1->System.out.println(s1));;
+	        // Implement display using accept()
+	        display.accept(10);
+	      
+
+	}
+
+}
