@@ -1,0 +1,12 @@
+package com.juluru.services;
+
+import org.springframework.stereotype.Component;
+
+@Component
+public class JwtCustomException extends RuntimeException{
+	
+	public JwtCustomException(String m){
+		super(m);
+	}
+
+}

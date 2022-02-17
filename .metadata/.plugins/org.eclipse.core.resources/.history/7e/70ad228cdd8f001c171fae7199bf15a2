@@ -1,0 +1,16 @@
+package com.juluru.services;
+
+import org.springframework.web.servlet.mvc.method.annotation.ResponseEntityExceptionHandler;
+
+public class GlobalExceptionHandling  extends ResponseEntityExceptionHandler{
+	 @ExceptionHandler(JwtCustomException.class)
+	    public ResponseEntity<Object> handleExceptions( JwtCustomException exception, WebRequest webRequest) {
+	        ExceptionResponse response = new ExceptionResponse();
+	        response.setDateTime(LocalDateTime.now());
+	        response.setMessage("Not found");
+	        ResponseEntity<Object> entity = new ResponseEntity<>(response,HttpStatus.NOT_FOUND);
+	        return entity;
+	    }
+
+	
+}

@@ -1,0 +1,5 @@
+package com.juluru.services;
+
+public class GlobalExceptionHandling {
+
+}

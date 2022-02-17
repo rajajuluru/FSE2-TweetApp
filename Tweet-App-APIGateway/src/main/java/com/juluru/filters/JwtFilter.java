@@ -8,30 +8,24 @@ import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
 
 import org.springframework.beans.factory.annotation.Autowired;
-import org.springframework.security.authentication.UsernamePasswordAuthenticationToken;
-import org.springframework.security.core.context.SecurityContextHolder;
-import org.springframework.security.core.userdetails.UserDetails;
-import org.springframework.security.web.authentication.WebAuthenticationDetailsSource;
 import org.springframework.stereotype.Component;
 import org.springframework.web.filter.OncePerRequestFilter;
 
-import com.juluru.services.UserService;
-import com.juluru.utilities.JWTUtility;
+import com.juluru.JwtCustomException;
+import com.juluru.controller.HomeController;
 
 @Component
 public class JwtFilter extends OncePerRequestFilter {
 
-    @Autowired
-    private JWTUtility jwtUtility;
 
-    @Autowired
-    private UserService userService;
-
+	
+	@Autowired
+	HomeController controller;
     @Override
     protected void doFilterInternal(HttpServletRequest httpServletRequest, HttpServletResponse httpServletResponse, FilterChain filterChain) throws ServletException, IOException {
         String authorization = httpServletRequest.getHeader("Authorization");
        
-      System.out.println(httpServletRequest.getRequestURI()+"url");
+      System.out.println(httpServletRequest.getRequestURI()+"in jwt filter in apigateway");
    
 /*      httpServletResponse.setHeader("Access-Control-Allow-Origin", httpServletRequest.getHeader("Origin"));
       httpServletResponse.setHeader("Access-Control-Allow-Credentials", "true");
@@ -45,46 +39,68 @@ public class JwtFilter extends OncePerRequestFilter {
         String token = null;
         String userName = null;
 
-        if(null != authorization && authorization.startsWith("cts")) {
-        	System.out.println("starts with cts and not null");
-            token = authorization.substring(3);
-            userName = jwtUtility.getUsernameFromToken(token);
-           // httpServletRequest.setAttribute("userName", userName);
-        }
-
-        if(null != userName && SecurityContextHolder.getContext().getAuthentication() == null) {
-            UserDetails userDetails
-                    = userService.loadUserByUsername(userName);
-                
-            if(jwtUtility.validateToken(token,userDetails)) {
-                UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken
-                        = new UsernamePasswordAuthenticationToken(userDetails,
-                        null, userDetails.getAuthorities());
-
-                usernamePasswordAuthenticationToken.setDetails(
-                        new WebAuthenticationDetailsSource().buildDetails(httpServletRequest)
-                );
-
-                SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
-            }
-
-        }
+//        if(null != authorization && authorization.startsWith("cts")) {
+//        	System.out.println("starts with cts and not null");
+//            token = authorization.substring(3);
+//            userName = jwtUtility.getUsernameFromToken(token);
+//          
+//        }
+//
+//        if(null != userName && SecurityContextHolder.getContext().getAuthentication() == null) {
+//            UserDetails userDetails
+//                    = userService.loadUserByUsername(userName);
+//                
+//            if(jwtUtility.validateToken(token,userDetails)) {
+//                UsernamePasswordAuthenticationToken usernamePasswordAuthenticationToken
+//                        = new UsernamePasswordAuthenticationToken(userDetails,
+//                        null, userDetails.getAuthorities());
+//
+//                usernamePasswordAuthenticationToken.setDetails(
+//                        new WebAuthenticationDetailsSource().buildDetails(httpServletRequest)
+//                );
+//
+//                SecurityContextHolder.getContext().setAuthentication(usernamePasswordAuthenticationToken);
+//            }
+//
+//        }
         
+       
         
-     /*   if(httpServletRequest.getRequestURI().toString().trim().contains("Admin"))
+    if(!httpServletRequest.getRequestURI().contains("error") && !httpServletRequest.getRequestURI().contains("authenticate") && !httpServletRequest.getRequestURI().contains("register"))
+    {
+    	Integer validate =new Integer(0);
+        try {
+			 validate = controller.validate(httpServletRequest);
+		} catch (Exception e) {
+			// TODO Auto-generated catch block
+			e.printStackTrace();
+			validate=0;
+		}
+        
+        if(validate.equals(new Integer(1)))
         {
-        	if(jwtUtility.getRoleFromToken(token.trim()).equalsIgnoreCase("A"))
-        	{
-        		
-        	}
-        	else
-        	{
-        		System.out.println("exception");
-				throw  new UnAuthorizedExceptions();
-				
-        	}
-        }*/
-        System.out.println("inside filter we have SecurityContextHolder.getContext().getAuthentication()"+SecurityContextHolder.getContext().getAuthentication());
-        filterChain.doFilter(httpServletRequest, httpServletResponse);
+        	 filterChain.doFilter(httpServletRequest, httpServletResponse);
+        }
+        else
+        	
+        {
+        	String redirectURL = "http://" + httpServletRequest.getServerName()+":"+httpServletRequest.getServerPort() +"/error";
+        	System.out.println(redirectURL+"redirectURLredirectURLredirectURL");
+        	httpServletResponse.sendRedirect(redirectURL);
+        
+        	//throw new JwtCustomException("not a valid token");
+        //	filterChain.doFilter(httpServletRequest, httpServletResponse);
+        	
+        	
+        
+        }
+    }
+    else
+    {
+    	filterChain.doFilter(httpServletRequest, httpServletResponse);
+    }
+
+       // System.out.println("inside filter we have SecurityContextHolder.getContext().getAuthentication()"+SecurityContextHolder.getContext().getAuthentication());
+       
     }
 }

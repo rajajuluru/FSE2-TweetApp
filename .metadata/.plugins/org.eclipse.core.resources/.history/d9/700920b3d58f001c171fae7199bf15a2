@@ -1,0 +1,13 @@
+spring.application.name=apigateway
+eureka.client.serviceUrl.defaultZone=http://localhost:8761/eureka
+
+#eureka.client.serviceUrl.defaultZone=http://ec2-52-23-183-186.compute-1.amazonaws.com:8761/eureka
+
+eureka.client.register-with-eureka=true
+server.port=8888
+zuul.routes.booking.path=/tweetapp/**
+zuul.routes.booking.url=tweetapp
+zuul.routes.booking.path=/security/**
+zuul.routes.booking.url=USERMANAGEMENT
+zuul.ribbon.eager-load.enabled= true
+ribbon.ReadTimeout= 600000

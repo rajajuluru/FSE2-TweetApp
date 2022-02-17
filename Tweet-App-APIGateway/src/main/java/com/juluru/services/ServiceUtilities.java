@@ -21,6 +21,11 @@ public class ServiceUtilities {
 		ServiceInstance serviceInstance = loadBalancerClient.choose("tweetapp");
 		return serviceInstance.getUri().toString();
 	}
+	
+	public String getEurkaClientBaseUriofUserManagement() {
+		ServiceInstance serviceInstance = loadBalancerClient.choose("usermanagement");
+		return serviceInstance.getUri().toString();
+	}
 
 	public RegisterHelperClass getUserPasswordFrmDB(String username) {
 		System.out.println(username + "username");

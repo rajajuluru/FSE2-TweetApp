@@ -1,0 +1,9 @@
+package com.juluru.services;
+
+public class JwtCustomException extends RuntimeException{
+	
+	public JwtCustomException(String m){
+		super(m);
+	}
+
+}

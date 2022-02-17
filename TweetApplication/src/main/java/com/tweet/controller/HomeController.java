@@ -8,6 +8,7 @@ import java.util.Optional;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.mongodb.core.MongoTemplate;
 import org.springframework.data.mongodb.core.query.Query;
+import org.springframework.web.bind.annotation.CrossOrigin;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PatchMapping;
 import org.springframework.web.bind.annotation.PathVariable;
@@ -80,7 +81,7 @@ public class HomeController {
 	@PostMapping(value = "/addTweet")
 	public ResponseHelper postTweet(@RequestBody TweetsDetails details) {
 		ResponseHelper res = new ResponseHelper(false, "");
-		System.out.println(details.toString());
+		System.out.println(details.toString() +"tweet data in tweetapplication");
 		if (details.getMessage().length() > 144) {
 			res.setData("tweetLimitCrossed");
 			res.setStatus(false);
